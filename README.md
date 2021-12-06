@@ -1,4 +1,4 @@
-# MATH 108 Public Materials for Spring 2022
+# MATH 108 Materials for Spring 2022
 
 This repository contains the publicly available materials (lecture demonstrations, labs, homeworks, and projects) that are used in the MATH 108 Foundations of Data Science course during the Spring 2022 semester.
 
