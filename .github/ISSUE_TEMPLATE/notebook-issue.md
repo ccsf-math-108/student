@@ -1,9 +1,9 @@
 ---
 name: Notebook Issue
 about: Help us improve the quality of the course content.
-title: ''
-labels: ''
-assignees: ''
+title: "[Notebook Issue]"
+labels: bug
+assignees: shawnwiggins
 
 ---
 
