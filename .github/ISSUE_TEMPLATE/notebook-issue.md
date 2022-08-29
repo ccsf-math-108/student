@@ -1,5 +1,5 @@
 ---
-name: Content Issue
+name: Notebook Issue
 about: Help us improve the quality of the course content.
 title: ''
 labels: ''
