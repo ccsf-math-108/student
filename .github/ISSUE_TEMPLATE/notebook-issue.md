@@ -2,7 +2,7 @@
 name: Notebook Issue
 about: Help us improve the quality of the course content. Delete any unneeded sections
   from this template or feel free to add sections to better describe the issue.
-title: "[Notebook Issue] - _REPLACE WITH NOTEBOOK NAME_"
+title: "[Notebook Issue]"
 labels: ''
 assignees: shawnwiggins
 
