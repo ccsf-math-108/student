@@ -10,64 +10,73 @@
    </head>
    <body id="index" class="home">
       <div class="container">
-         <h2>Python Reference</h2>
-         <style>
-            th {
-            text-align: left
-            }
-            table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table > thead > tr > td,
-            table > tbody > tr > td, table > tfoot > tr > td {
-            padding: 8px;
-            line-height: 1.42857143;
-            vertical-align: top;
-            border-top: 1px solid #ddd
-            }
-            table > thead > tr > th {
-            vertical-align: bottom;
-            border-bottom: 2px solid #ddd
-            }
-            table > caption + thead > tr:first-child > th, table > colgroup + thead > tr:first-child > th,
-            table > thead:first-child > tr:first-child > th, table > caption + thead > tr:first-child > td,
-            table > colgroup + thead > tr:first-child > td, table > thead:first-child > tr:first-child > td {
-            border-top: 0
-            }
-            table > tbody + tbody {
-            border-top: 2px solid #ddd
-            }
-            table {
-            border: 1px solid #ddd;
-            border-spacing: 0;
-            border-collapse: collapse;
-            background-color: #fff;
-            width: 100%;
-            max-width: 100%;
-            margin-bottom: 20px
-            }
-            td, th {
-            padding: 0
-            }
-            table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th,
-            table > thead > tr > td, table > tbody > tr > td, table > tfoot > tr > td {
-            border: 1px solid #ddd
-            }
-            table > thead > tr > th, table > thead > tr > td {
-            border-bottom-width: 2px
-            }
-            table > tbody > tr:nth-child(odd) {
-            background-color: #f9f9f9
-            }
-         </style>
-         <p>Created by Nishant Kheterpal and Jessica Hu</p>
-         <h3>Table of Contents</h3>
-         <ul>
-            <li><a href="#tfm">Table Functions and Methods</a></li>
-            <li><a href="#sm">String Methods</a></li>
-            <li><a href="#afm">Array Functions and Methods</a></li>
-            <li><a href="#tp">Table.where Predicates</a></li>
-            <li><a href="#mf">Miscellaneous Functions</a></li>
-         </ul>
-         <h3 id="tfm">Table Functions and Methods</h3>
-         <p>In the examples in the left column, <code>np</code> refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, <code>tbl</code> refers to a table, <code>array</code> refers to an array, and <code>num</code> refers to a number. <code>array.item(0)</code> is an example call for the method <code>item</code>, and in that example, <code>array</code> is the name previously given to some array.</p>
+      <h2>Python Reference</h2>
+      <style>
+         th {
+         text-align: left
+         }
+         table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th, table > thead > tr > td,
+         table > tbody > tr > td, table > tfoot > tr > td {
+         padding: 8px;
+         line-height: 1.42857143;
+         vertical-align: top;
+         border-top: 1px solid #ddd
+         }
+         table > thead > tr > th {
+         vertical-align: bottom;
+         border-bottom: 2px solid #ddd
+         }
+         table > caption + thead > tr:first-child > th, table > colgroup + thead > tr:first-child > th,
+         table > thead:first-child > tr:first-child > th, table > caption + thead > tr:first-child > td,
+         table > colgroup + thead > tr:first-child > td, table > thead:first-child > tr:first-child > td {
+         border-top: 0
+         }
+         table > tbody + tbody {
+         border-top: 2px solid #ddd
+         }
+         table {
+         border: 1px solid #ddd;
+         border-spacing: 0;
+         border-collapse: collapse;
+         background-color: #fff;
+         width: 100%;
+         max-width: 100%;
+         margin-bottom: 20px
+         }
+         td, th {
+         padding: 0
+         }
+         table > thead > tr > th, table > tbody > tr > th, table > tfoot > tr > th,
+         table > thead > tr > td, table > tbody > tr > td, table > tfoot > tr > td {
+         border: 1px solid #ddd
+         }
+         table > thead > tr > th, table > thead > tr > td {
+         border-bottom-width: 2px
+         }
+         table > tbody > tr:nth-child(odd) {
+         background-color: #f9f9f9
+         }
+      </style>
+      <p>Created by Nishant Kheterpal and Jessica Hu</p>
+      <h3>Table of Contents</h3>
+      <ol id="markdown-toc">
+         <li><a href="#table-functions-and-methods" id="markdown-toc-table-functions-and-methods">Table Functions and Methods</a>
+         <li><a href="#string-methods" id="markdown-toc-string-methods">String Methods</a>
+         <li><a href="#array-functions-and-methods" id="markdown-toc-array-functions-and-methods">Array Functions and Methods</a>
+         <li><a href="#tablewhere-predicates" id="markdown-toc-tablewhere-predicates"><code class="language-plaintext highlighter-rouge">Table.where</code> Predicates</a>
+         <li><a href="#miscellaneous-functions" id="markdown-toc-miscellaneous-functions">Miscellaneous Functions</a>
+      </ol>
+      <hr />
+      <h2 id="table-functions-and-methods">
+         <a href="#table-functions-and-methods" class="anchor-heading" aria-labelledby="table-functions-and-methods">
+            <svg viewBox="0 0 16 16" aria-hidden="true">
+               <use xlink:href="#svg-link"></use>
+            </svg>
+         </a>
+         Table Functions and Methods
+      </h2>
+      <p>In the examples in the left column, <code class="language-plaintext highlighter-rouge">np</code> refers to the NumPy module, as usual. Everything else is a function, a method, an example of an argument to a function or method, or an example of an object we might call the method on. For example, <code class="language-plaintext highlighter-rouge">tbl</code> refers to a table, <code class="language-plaintext highlighter-rouge">array</code> refers to an array, and <code class="language-plaintext highlighter-rouge">num</code> refers to a number. <code class="language-plaintext highlighter-rouge">array.item(0)</code> is an example call for the method item, and in that example, <code class="language-plaintext highlighter-rouge">array</code> is the name previously given to some array.</p>
+      <div class="table-wrapper">
          <table>
             <tbody>
                <tr>
