@@ -19,7 +19,7 @@ Fall 2023 student course materials for [MATH 108 Foundations of Data Science](ht
 |08|October 16 - October 22|Midterm Review| | | | |Midterm|
 |09|October 23 - October 29|Models, Comparing Distributions, Decisions and Uncertainty|11.0 - 11.4|Lab 07: Testing Hypotheses|Homework 08: Testing Hypotheses| | |
 |10|October 30 - November 5|A/B Testing, Causality, Hypothesis Testing Examples|12.0 - 12.3|Lab 08: A/B Testing|Homework 09: A/B Testing| | |
-|11|November 6 - November 12 (Includes Holiday)|Confidence Intervals, Interpreting Confidence, Center and Spread|13.0 - 13.4|Lab 09: Sampling Variability|Homework 10: Confidence Intervals|Project 2: Climate| |
+|11|November 6 - November 12 (Includes Holiday)|Confidence Intervals, Interpreting Confidence, Center and Spread|13.0 - 13.4|Lab 09: Confidence Intervals|Homework 10: Confidence Intervals|Project 2: Climate| |
 |12|November 13 - November 19|The Normal Distribution, Sample Means, Designing Experiments|14.0 - 14.6|Project 2: Checkpoint|Homework 11: Designing Experiments| | |
 |13|November 20 - November 26 (Includes Holiday)|Correlation, Linear Regression, Least Squares|15.0 - 15.4| | |Project 3: Movie Classification| |
 |14|November 27 - December 3|Residuals, Regression Inference|15.5 - 16.3|Lab 10: Linear Regression|Homework 12: Correlation and Regression| | |
