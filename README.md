@@ -23,6 +23,6 @@ Fall 2023 student course materials for [MATH 108 Foundations of Data Science](ht
 |12|November 13 - November 19|The Normal Distribution, Sample Means, Designing Experiments|14.0 - 14.6|Project 2: Checkpoint|Homework 11: Designing Experiments| | |
 |13|November 20 - November 26 (Includes Holiday)|Correlation, Linear Regression, Least Squares|15.0 - 15.4| | |Project 3: Movie Classification| |
 |14|November 27 - December 3|Residuals, Regression Inference|15.5 - 16.3|Lab 10: Linear Regression|Homework 12: Correlation and Regression| | |
-|15|December 4 - December 10|Classification, Classifiers, Updating Probabilies|17.0 - 18.2|Project 3: Checkpoint|Homework 13: Classification| | |
+|15|December 4 - December 10|Classification, Classifiers, Updating Probabilities|17.0 - 18.2|Project 3: Checkpoint|Homework 13: Classification| | |
 |16|December 11 - December 17|Conclusion, Course Review| | | | | |
 |17|December 18 - December 19| | | | | |Final|
