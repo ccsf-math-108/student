@@ -13,7 +13,7 @@ Fall 2023 student course materials for [MATH 108 Foundations of Data Science](ht
 |02|September 4 - September 10 (Includes Holiday)|Data Types, Sequences|4.0 - 5.3|Lab 02: Data Types|Homework 02: Data Types| | |
 |03|September 11 - September 17|Tables, Building Tables, Census|3.4, 6.0 - 6.4|Lab 03: Tables|Homework 03: Tables| | |
 |04|September 18 - September 24|Charts, Histograms|7.0 - 7.3|Lab 04: Visualizations|Homework 04: Visualizations| | |
-|05|September 25 - October 1|Functions, Groups, Pivots and Joins|8.0 - 8.5|Lab 05: Functions and Aggregation|Homework 05: Data Analysis|Project1: World Population and Poverty| |
+|05|September 25 - October 1|Functions, Groups, Pivots and Joins|8.0 - 8.5|Lab 05: Functions and Aggregation|Homework 05: Data Analysis|Project 1: World Population and Poverty| |
 |06|October 2 - October 8|Conditionals and Iteration, Sampling, Distributions|9.0 - 9.3, 10.0 - 10.4|Project 1: Checkpoint|Homework 06: Iteration and Sampling| | |
 |07|October 9 - October 15 (Includes FLEX)|Chance, Conditional Probability|9.4 - 9.5, 18.1 - 18.2|Lab 06: Simulation and Chance|Homework 07: Chance| | |
 |08|October 16 - October 22|Midterm Review| | | | |Midterm|
