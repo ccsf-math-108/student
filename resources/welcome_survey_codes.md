@@ -1,5 +1,5 @@
 | Question Code     | Question Text                                                                                       |
-|-------------------|-----------------------------------------------------------------------------------------------------|
+|:-------------------|:-----------------------------------------------------------------------------------------------------|
 | crn               | Which section of MATH 108 are you in?                                                               |
 | age               | How old are you?                                                                                   |
 | da_cert           | Are you planning to complete the CCSF Data Analytics Fundamentals Certificate requirements?       |
