@@ -14,8 +14,8 @@ Fall 2023 student course materials for [MATH 108 Foundations of Data Science](ht
 |03|September 11 - September 17|Tables, Building Tables, Census|3.4, 6.0 - 6.4|Lab 03: Tables|Homework 03: Tables| | |
 |04|September 18 - September 24|Charts, Histograms|7.0 - 7.3|Lab 04: Visualizations|Homework 04: Visualizations| | |
 |05|September 25 - October 1|Functions, Groups, Pivots and Joins|8.0 - 8.5|Lab 05: Functions and Aggregation|Homework 05: Data Analysis|Project 1: World Population and Poverty| |
-|06|October 2 - October 8|Conditionals and Iteration, Sampling, Distributions|9.0 - 9.3, 10.0 - 10.4|Project 1: Checkpoint|Homework 06: Iteration and Sampling| | |
-|07|October 9 - October 15 (Includes FLEX)|Chance, Conditional Probability|9.4 - 9.5, 18.1 - 18.2|Lab 06: Simulation and Chance|Homework 07: Chance| | |
+|06|October 2 - October 8|Conditionals and Iteration, Chance, Sampling|9.0 - 9.5, 10.0|Project 1: Checkpoint|Homework 06: Iteration and Chance| | |
+|07|October 9 - October 15 (Includes FLEX)|Distributions|10.1 - 10.4|Lab 06: Simulation and Chance|Homework 07: Simulation| | |
 |08|October 16 - October 22|Midterm Review| | | | |Midterm|
 |09|October 23 - October 29|Models, Comparing Distributions, Decisions and Uncertainty|11.0 - 11.4|Lab 07: Testing Hypotheses|Homework 08: Testing Hypotheses| | |
 |10|October 30 - November 5|A/B Testing, Causality, Hypothesis Testing Examples|12.0 - 12.3|Lab 08: A/B Testing|Homework 09: A/B Testing| | |
