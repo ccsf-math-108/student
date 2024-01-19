@@ -1,5 +1,5 @@
 test = {   'name': 'q5_2',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> # Hint: If you are getting 47 as your answer, you might be computing the biggest change rather than biggest decrease!\n'
                                                '>>> biggest_decrease != 47\n'
                                                'True',

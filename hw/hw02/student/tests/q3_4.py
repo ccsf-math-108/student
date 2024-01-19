@@ -1,5 +1,5 @@
 test = {   'name': 'q3_4',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> # Looks like you multiplied and subtracted in the wrong order.\n>>> sum(celsius_max_temperatures) != 356705.0\nTrue',
                                        'hidden': False,
                                        'locked': False},

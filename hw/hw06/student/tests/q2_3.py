@@ -1,5 +1,5 @@
 test = {   'name': 'q2_3',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> len(simulate_several_key_strikes(15)) == 15\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> isinstance(simulate_several_key_strikes(15), str)\nTrue', 'hidden': False, 'locked': False},
                                    {   'code': ">>> # It looks like your simulation doesn't use all the letters, or it uses more than the 26 lower-case letters.\n"

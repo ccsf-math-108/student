@@ -1,5 +1,5 @@
 test = {   'name': 'q1_1',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure you have all the columns from both tables\n'
                                                '>>> set(["Name", "Menu_Item", "Yelp", \'Google\', "Overall", "Cost"]) == set(burritos.labels)\n'
                                                'True',

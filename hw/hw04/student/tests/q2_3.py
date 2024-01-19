@@ -1,5 +1,5 @@
 test = {   'name': 'q2_3',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> # Double check that your salary_range function is correct\n>>> salary_range(make_array(5, 1, 20, 1000)) == 999\nTrue',
                                        'hidden': False,
                                        'locked': False},

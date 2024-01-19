@@ -1,5 +1,5 @@
 test = {   'name': 'q2_1',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> prof_names.num_columns == 2\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> prof_names.num_rows == 71\nTrue', 'hidden': False, 'locked': False},
                                    {   'code': '>>> # Make sure that you have the correct column labels!\n>>> np.asarray(prof_names.labels).item(1) != "name identity"\nTrue',

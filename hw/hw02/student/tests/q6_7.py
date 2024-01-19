@@ -1,5 +1,5 @@
 test = {   'name': 'q6_7',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> # It looks like your table doesn't have all 3 columns that are in the inventory table.\n>>> remaining_inventory.num_columns == 3\nTrue",
                                        'hidden': False,
                                        'locked': False},

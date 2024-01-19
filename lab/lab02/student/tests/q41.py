@@ -1,5 +1,5 @@
 test = {   'name': 'q41',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> type(above_eight) == tables.Table\nTrue', 'hidden': False, 'locked': False},
                                    {'code': '>>> above_eight.num_rows == 20\nTrue', 'hidden': False, 'locked': False},
                                    {   'code': '>>> # Make sure your columns are in the right order!\n'

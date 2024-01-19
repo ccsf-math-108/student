@@ -1,5 +1,5 @@
 test = {   'name': 'q1_2',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {'code': ">>> import numpy as np\n>>> # It looks like you didn't make an array\n>>> type(book_title_words) == np.ndarray\nTrue", 'hidden': False, 'locked': False},
                                    {   'code': '>>> # It looks like you included commas in the text.\n'
                                                '>>> # The three pieces of text in the array should be:\n'

@@ -1,6 +1,6 @@
 test = {   'name': 'q1_4',
-    'points': None,
-    'suites': [   {   'cases': [{'code': '>>> 0 <= cal_wins <= 10\nTrue', 'hidden': False, 'locked': False}, {'code': '>>> 0 <= cal_losses <= 10\nTrue', 'hidden': False, 'locked': False}],
+    'points': 1,
+    'suites': [   {   'cases': [{'code': '>>> 0 <= ccsf_wins <= 10\nFalse', 'hidden': False, 'locked': False}, {'code': '>>> 0 <= ccsf_losses <= 10\nTrue', 'hidden': False, 'locked': False}],
                       'scored': True,
                       'setup': '',
                       'teardown': '',

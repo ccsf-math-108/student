@@ -1,5 +1,5 @@
 test = {   'name': 'q2_2',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> # It looks like you forgot to have your function return something.\n>>> simulate_key_strike() is not None\nTrue', 'hidden': False, 'locked': False},
                                    {   'code': '>>> import string\n>>> all([simulate_key_strike() in list(string.ascii_lowercase + string.ascii_uppercase + string.digits) for i in range(100)])\nTrue',
                                        'hidden': False,

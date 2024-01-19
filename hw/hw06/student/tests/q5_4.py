@@ -1,5 +1,5 @@
 test = {   'name': 'q5_4',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> # There should be exactly as many elements in deck_statistics as the number 'repetitions'\n>>> len(deck_statistics) == repetitions\nTrue",
                                        'hidden': False,
                                        'locked': False},

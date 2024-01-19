@@ -1,5 +1,5 @@
 test = {   'name': 'q3_1',
-    'points': None,
+    'points': 1,
     'suites': [   {   'cases': [   {'code': '>>> full_data.num_rows -- 562\n1124', 'hidden': False, 'locked': False},
                                    {   'code': ">>> # Double check the way you're combining the two tables. Are you combining in the correct order (in terms of the arguments)?\n"
                                                '>>> # The problem statement saying "except \'Name\' column" is a hint at the order in which you should combine the tables.\n'
